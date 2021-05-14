@@ -67,6 +67,7 @@
             data: [
             {
             type: "spline", //change it to column, spline, line, pie, etc
+            // type: "spline", //change it to column, spline, line, pie, etc and other some graphical image here!
             dataPoints: [
                 { x: 10, y: 10 },
                 { x: 20, y: 14 },
